@@ -36,4 +36,4 @@ This is a basic responsive shopping website project for beginners. It includes t
 
 ## License
 
-This project is for learning and
+This project is for learning and understanding HTML and CSS
